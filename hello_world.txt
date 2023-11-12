@@ -1,0 +1,1 @@
+Algo de texto para modificar el archivo mientras se aprende los comando basicos de git
